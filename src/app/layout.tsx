@@ -36,7 +36,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               raysColor="#5dfeca"
               raysSpeed={0.5}
               lightSpread={1}
-              rayLength={1.5}
+              rayLength={2}
               followMouse={true}
               mouseInfluence={0.02}
               noiseAmount={0.1}
